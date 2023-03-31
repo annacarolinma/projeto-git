@@ -1,0 +1,1 @@
+olá, esse projeto é um estudo de uso do git.
